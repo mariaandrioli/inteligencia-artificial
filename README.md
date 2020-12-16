@@ -1,6 +1,6 @@
 # Inteligência Artificial
 
-Trabalho da disciplina de Programação Paralela.
+Trabalho da disciplina de Inteligência Artificial.
 
 Este trabalho utiliza os dados do IMDB (Internet Movie Database) e analisa de forma paralela os gêneros de todos os filmes publicados no site até a data de entrega, 
 de forma a ver a evolução dos gêneros de filme com o passar do tempo. (Linguagem de programação: C)
