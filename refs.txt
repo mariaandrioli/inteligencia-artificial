@@ -1,0 +1,1 @@
+https://github.com/felipemartinsss/RepositorioIAsc/blob/master/Python/buscas/buscas_ia.py

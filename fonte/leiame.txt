@@ -1,0 +1,15 @@
+Maria Teresa Kravetz Andrioli GRR20171602
+Ana Carolina Faria Magnoni GRR20166808
+
+CI1209 - Inteligência Artificial 2019/1
+Trabalho 1 - FloodIt
+
+Especificação: http://www.inf.ufpr.br/fabiano/ci209/trabalho1.txt
+
+Funcionamento:
+	1- Le os valores do tabuleiro em uma matriz
+	2- Começando no canto superior esquerdo, acha a maior região de cores para definir onde vai iniciar a busca
+	3- A partir dessa posição encontrada, faz a busca usando um algoritmo guloso que acha qual cor dos
+	adjacentes dessa região está em maior quantidade até completar o tabuleiro com a mesma cor 
+	4- Imprime a posição inicial encontrada em 2 e a sequencia de passos até o fim do jogo
+	5- Libera o tabuleiro e o vetor de sequencia de jogadas
